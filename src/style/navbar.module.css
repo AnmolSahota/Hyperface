@@ -3,7 +3,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 0px 2%;
+  padding: 0px 3%;
   height: 90px;
 }
 .icon {
@@ -40,7 +40,7 @@
 }
 #thirdDiv {
   display: flex;
-  width: 15%;
+  width: 25%;
   align-items: center;
   justify-content: flex-end;
   /* border: 1px solid red; */
